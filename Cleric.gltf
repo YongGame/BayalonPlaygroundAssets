@@ -13504,9 +13504,6 @@
     "materials" : [
         {
             "doubleSided" : true,
-            "extensions" : {
-                "KHR_materials_unlit" : {}
-            },
             "name" : "Cleric_Texture",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -13518,9 +13515,6 @@
         },
         {
             "doubleSided" : true,
-            "extensions" : {
-                "KHR_materials_unlit" : {}
-            },
             "name" : "Cleric_Staff_Texture",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
